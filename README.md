@@ -1,15 +1,17 @@
 ## Welcome to WomboXcombo - SEND REPLAYS HERE
 
-<!DOCTYPE html>
+##Submit your Replays here!
+
 <html lang="en">
 <head>
 <body>
 
 <form action="" method="POST">
 <fieldset>
-<legend>Add a Comment</legend>
-<label for="handle">Handle</label>
-<input type="text" name="handle" id="handle" value="" />
+<legend>Fill this up</legend>
+
+<label for="Match ID">Handle</label>
+<input type="text" name="Match ID" id="Match ID" value="" />
 </fieldset>
 
 
