@@ -3,13 +3,16 @@
 ## Step 1 - Copy This
 
 Type: (if its rampage/funny/imba/ etc.)
+
 Match ID:
+
 Replay Time:
+
 Description: 
 
 ## Step 2 - Paste it in the comment box.
 
-## Step 3 - Fill it up and hit POST
+## Step 3 - Fill it up then Send.
 
 <html lang="en">
 <head>
