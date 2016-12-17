@@ -1,6 +1,6 @@
 ## Welcome to WomboXcombo - SEND REPLAYS HERE
 
-##Submit your Replays here!
+## Submit your Replays here!
 
 <html lang="en">
 <head>
@@ -10,8 +10,8 @@
 <fieldset>
 <legend>Fill this up</legend>
 
-<label for="Match ID">Handle</label>
-<input type="text" name="Match ID" id="Match ID" value="" />
+<label for="MatchID">Handle</label>
+<input type="text" name="MatchID" id="MatchID" value="" />
 </fieldset>
 
 
