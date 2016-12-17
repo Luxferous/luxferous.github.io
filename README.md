@@ -14,7 +14,7 @@
 <input type="text" name="Match ID" id="Match ID" value="" maxlength="200" />
 <br /><br />
 <label for="comment">Comment</label>
-<textarea rows="6" cols="50"> name="comment" id="comment"</textarea>
+<textarea rows="6" cols="50" name="comment" id="comment"></textarea>
 <br /><br />
 <input type="submit" value="Publish"/>
 
