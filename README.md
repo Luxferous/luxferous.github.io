@@ -10,8 +10,8 @@
 <fieldset>
 <legend>Fill this up</legend>
 
-<label for="MatchID">Handle</label>
-<input type="text" name="MatchID" id="MatchID" value="" />
+<label for="Match ID">Match ID</label>
+<input type="text" name="Match ID" id="Match ID" value="" />
 </fieldset>
 
 
