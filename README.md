@@ -35,4 +35,12 @@ Description:
 
 <div class="fb-comments" data-href="https://luxferous.github.io/" data-width="500" data-numposts="7"></div>
 
+## EPISODE 1
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6KFvq3mcoJw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+## EPISODE 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKa7n9A9trg?rel=0" frameborder="0" allowfullscreen></iframe>
