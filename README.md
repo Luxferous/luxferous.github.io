@@ -44,3 +44,15 @@ Description:
 ## EPISODE 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKa7n9A9trg?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+## EPISODE 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eBAU1UP_m8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+## EPISODE 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0USMaQAmQA?rel=0" frameborder="0" allowfullscreen></iframe>
