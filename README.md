@@ -56,3 +56,9 @@ Description:
 ## EPISODE 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d0USMaQAmQA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+## EPISODE 5
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8EZU_syvM10?rel=0" frameborder="0" allowfullscreen></iframe>
